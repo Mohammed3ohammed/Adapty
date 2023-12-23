@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 // import { Link } from 'react-router-dom'
 import  "../index.css";
-import "../App.css";
 import { MenuItems } from './Menulitem';
+import { Link } from 'react-router-dom';
 
 class Navbar extends Component {
 
@@ -26,9 +26,9 @@ class Navbar extends Component {
 
                     return (
                     <li key={index}>
-                        <a className={item.cName} href='/'>
+                        <Link className={item.cName} to={item.url}>
                         <i className={item.icon}></i>{item.title}
-                        </a>
+                        </Link>
                     </li>
                     )
                  })} 
