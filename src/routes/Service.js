@@ -1,5 +1,7 @@
+import Footer from "../components/Footer"
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
+import Trip from "../components/Trip"
 import Img4 from "../images/4.jpg"
 
 function Service () {
@@ -12,6 +14,8 @@ function Service () {
         title="Service"
         btnClass="hide"
         />
+        <Trip />
+        <Footer />
         </>
     )
 }

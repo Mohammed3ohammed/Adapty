@@ -1,3 +1,5 @@
+import ContactForm from "../components/ContactForm"
+import Footer from "../components/Footer"
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
 import Img3 from "../images/Contact.jpg"
@@ -13,6 +15,8 @@ function Contact () {
         title="Contact"
         btnClass="hide"
         />
+        <ContactForm />
+        <Footer />
         </>
     )
 }

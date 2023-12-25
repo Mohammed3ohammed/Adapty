@@ -1,3 +1,5 @@
+import AboutUs from "../components/AboutUs"
+import Footer from "../components/Footer"
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
 import Img2 from"../images/night.jpg"
@@ -12,6 +14,8 @@ function About () {
         title="About"
         btnClass="hide"
         />
+        <AboutUs />
+        <Footer />
         </>
     )
 }
