@@ -16,6 +16,7 @@
     display: flex;
     justify-content: space-between;
     align-content: center;
+    align-items: center;
     padding: 0 30px;
     box-shadow: 0 5px 15px 0 rgba(165, 159, 159, 0.25);
     width: 95%;
@@ -170,6 +171,7 @@ img {
 }
 .des-text h2 {
     padding-bottom: 1rem;
+    
 }
 .image {
     position: relative;
@@ -184,6 +186,7 @@ img {
     object-fit: cover;
     border-radius: 6px;
     box-shadow: -1px 1px 62px -18px rgp(0, 0, 0, 0.19);
+    margin-top: 2rem;
 }
 .image img:nth-child(2) {
     position: absolute;
@@ -434,6 +437,8 @@ margin: auto;
     }
     .image img {
         height: 250px;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
     }
 
  /* End Destination */

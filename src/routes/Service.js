@@ -2,7 +2,7 @@ import Footer from "../components/Footer"
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
 import Trip from "../components/Trip"
-import Img4 from "../images/4.jpg"
+import Img4 from "../images/10.jpg"
 
 function Service () {
     return (
