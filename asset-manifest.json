@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/css/main.6386be44.css",
-    "main.js": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/js/main.299d706d.js",
-    "static/js/787.38f16daf.chunk.js": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/js/787.38f16daf.chunk.js",
-    "static/media/Contact.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/Contact.bbb41348bb839b9124d8.jpg",
-    "static/media/1.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/1.509d4d795248ac9962f3.jpg",
-    "static/media/HomeImg.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/HomeImg.257c5311e1cae5638aad.jpg",
-    "static/media/8.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
-    "static/media/10.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
-    "static/media/5.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/5.46b372902997b3fbd648.jpg",
-    "static/media/4.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/4.0c7885e97d08f0a61db1.jpg",
-    "static/media/6.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/6.334219a6a2bf5f5dd00d.jpg",
-    "static/media/night.jpg": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/media/night.ac6d287d5d0014553b87.jpg",
-    "index.html": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/index.html",
-    "main.6386be44.css.map": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/css/main.6386be44.css.map",
-    "main.299d706d.js.map": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/js/main.299d706d.js.map",
-    "787.38f16daf.chunk.js.map": "/%3Chttps://github.com/Mohammed3ohammed.github.io/Trippy.git%3E/static/js/787.38f16daf.chunk.js.map"
+    "main.css": "/Trippy/static/css/main.6386be44.css",
+    "main.js": "/Trippy/static/js/main.bf63480d.js",
+    "static/js/787.38f16daf.chunk.js": "/Trippy/static/js/787.38f16daf.chunk.js",
+    "static/media/Contact.jpg": "/Trippy/static/media/Contact.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/Trippy/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/HomeImg.jpg": "/Trippy/static/media/HomeImg.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/Trippy/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/10.jpg": "/Trippy/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/5.jpg": "/Trippy/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/4.jpg": "/Trippy/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/6.jpg": "/Trippy/static/media/6.334219a6a2bf5f5dd00d.jpg",
+    "static/media/night.jpg": "/Trippy/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/Trippy/index.html",
+    "main.6386be44.css.map": "/Trippy/static/css/main.6386be44.css.map",
+    "main.bf63480d.js.map": "/Trippy/static/js/main.bf63480d.js.map",
+    "787.38f16daf.chunk.js.map": "/Trippy/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6386be44.css",
-    "static/js/main.299d706d.js"
+    "static/js/main.bf63480d.js"
   ]
 }
